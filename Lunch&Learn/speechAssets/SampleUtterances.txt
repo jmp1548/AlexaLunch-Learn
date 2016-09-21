@@ -1,0 +1,7 @@
+DemoIntent demo
+DemoIntent start demo
+
+EmployeeIntent who works in the dev cage
+EmployeeIntent who works in the sapient
+
+EmployeeInfoIntent who is {Name}

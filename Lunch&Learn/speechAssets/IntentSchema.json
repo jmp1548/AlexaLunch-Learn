@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "DemoIntent"
+    },
+    {
+      "intent": "EmployeeIntent"
+    },
+    {
+      "intent": "EmployeeInfoIntent",
+      "slots": [
+        {
+          "name": "Name",
+          "type": "EMPLOYEE_TYPE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
